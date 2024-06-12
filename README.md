@@ -7,8 +7,8 @@ Este é um repositório GitHub que contém o código-fonte de um site simples co
 
 ### Tecnologias utilizadas:
 * HTML5
-* Observações:
 
+### Observações:
 Este projeto foi criado para iniciantes em desenvolvimento web.
 O código é simples e fácil de entender.
 Você pode utilizar este projeto como base para criar seus próprios sites.
